@@ -45,4 +45,4 @@ gcc estoque.c -o estoque
 
 ## Autor
 
-- Nykon Michael
+- Weberson Oliveira
