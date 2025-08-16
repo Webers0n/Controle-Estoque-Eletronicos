@@ -42,6 +42,8 @@ gcc estoque.c -o estoque
 ```
 
 4. Siga as instruções do menu para cadastrar, alterar, remover, listar ou buscar produtos.
+![Imagem](img/img.jpg)
+
 
 ## Autor
 
