@@ -1,9 +1,9 @@
-# Controle-Estoque-Eletronicos
-Atividade referente a AP2 feita na faculdade Católica
 
-# Controle de Estoque de Eletrônicos
+# Controle de Estoque de Eletrônicos - AP2
 
-Este projeto é um sistema simples em C para gerenciamento de estoque de uma loja de eletrônicos. Ele permite cadastrar, listar, alterar, remover e buscar produtos, simulando a organização física em caixas com limite de 10 produtos cada.
+Este projeto foi desenvolvido como atividade **AP2** da **Faculdade Católica**. O objetivo é criar um sistema em C para gerenciamento de estoque de uma loja de eletrônicos, atendendo aos requisitos solicitados pela disciplina.
+
+O sistema permite cadastrar, listar, alterar, remover e buscar produtos, simulando a organização física em caixas com limite de 10 produtos cada.
 
 ## Funcionalidades
 
@@ -29,3 +29,20 @@ Este projeto é um sistema simples em C para gerenciamento de estoque de uma loj
 1. Clone o repositório:
 ```bash
 git clone https://github.com/Webers0n/Controle-Estoque-Eletronicos.git
+```
+
+2. Compile o programa:
+```bash
+gcc estoque.c -o estoque
+```
+
+3. Execute:
+```bash
+./estoque
+```
+
+4. Siga as instruções do menu para cadastrar, alterar, remover, listar ou buscar produtos.
+
+## Autor
+
+- Nykon Michael
